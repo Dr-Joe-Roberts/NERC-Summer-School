@@ -1,1 +1,1 @@
-# NERC-Summer-School
+# NERC Summer School - Data Viz Resources
